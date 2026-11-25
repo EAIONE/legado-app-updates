@@ -1,9 +1,9 @@
 {
-  "versionCode": 26112525,
-  "versionName": "3.26112525",
-  "fileName": "阅读改版-3.26112525-26112525.apk",
-  "downloadUrl": "https://raw.githubusercontent.com/EAIONE/legado-app-updates/main/updates/legado-3.26112525.apk",
-  "changelog": "阅读改版 26112525（修复更新403：仓库公开+GitHub托管APK）",
-  "size": 21197373,
-  "publishedAt": "2026-11-25"
+  "versionCode": 26112600,
+  "versionName": "3.26112600",
+  "fileName": "阅读改版-3.26112600-26112600.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/EAIONE/legado-app-updates/main/updates/legado-3.26112600.apk",
+  "changelog": "新增本地智能修复（重新排版）：正文自动换行、标点修复、目录智能修复，可在阅读设置中开关与调强度",
+  "size": 21200099,
+  "publishedAt": "2026-11-26"
 }
